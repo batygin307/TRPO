@@ -3,7 +3,7 @@ name: UserStory
 about: Template
 title: ''
 labels: ТРПО
-assignees: ''
+assignees: batygin307
 
 ---
 

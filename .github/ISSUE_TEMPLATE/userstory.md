@@ -1,8 +1,8 @@
 ---
 name: UserStory
-about: template
+about: Template
 title: ''
-labels: ''
+labels: ТРПО
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: UserStory
-about: Template
+about: Template UserStory
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: batygin307
 
 ---
